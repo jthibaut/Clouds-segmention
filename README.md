@@ -1,4 +1,4 @@
-# Clouds-segmention
+# Clouds-segmentation
 
 This is a deep learning problem that we had to do during my initial training in Data Science but we could not finish it during the training.
 It was taken from a kaggle competition issued my Max Planck Instute.
